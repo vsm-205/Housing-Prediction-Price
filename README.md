@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Leonardo Andika - [@yourtwitter](https://twitter.com/yourtwitter) - leonardo.andika@gmail.com
 
 Project Link: [https://github.com/yourusername/your-project](https://github.com/yourusername/your-project)
 
