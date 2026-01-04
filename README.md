@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A Simple AI Model that predicts House Price in Jabodetabek Area using Random Tree Regressor 
+A Simple AI Model that predicts House Price in Jabodetabek Area using Random Tree Regressor. The model will be retrained using a different approach in the future, as this is just a placeholder for testing
 
 ## Plans for Improvement
 - Implemented a Live Real Estate Chatbot
