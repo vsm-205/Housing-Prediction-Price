@@ -6,5 +6,11 @@
 
 A Simple AI Model that predicts House Price in Jabodetabek Area using Random Tree Regressor 
 
+## Plans for Improvement
+- Implemented a Live Real Estate Chatbot
+- Set Up Production Environment
+- Scheduler to Retrain Model if Data Drift Happens
+  
 ![Demo GIF or Key Visualization](path/to/demo.gif)
+
 
